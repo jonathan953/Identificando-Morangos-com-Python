@@ -53,7 +53,7 @@ def segmentar_morangos(frame):
     return frame
 
 # Abrir o vídeo
-video = cv2.VideoCapture('Morango.mp4')
+video = cv2.VideoCapture('Identificando-Morangos-com-Python/data/Morango.mp4')
 if not video.isOpened():
     raise IOError("Erro ao abrir o vídeo.")
 
