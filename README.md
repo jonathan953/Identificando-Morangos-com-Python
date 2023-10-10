@@ -30,7 +30,7 @@ Você pode instalar as dependências Python com o seguinte comando:
 
 ## Exemplo de Saída
 
-![Exemplo de Saída](/images/output.png)
+![Exemplo de Saída](/images/output.PNG)
 
 ## Contribuições
 
