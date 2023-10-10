@@ -15,7 +15,10 @@ Você pode instalar as dependências Python com o seguinte comando:
 
 ## Uso
 
-1. Clone o repositório ou baixe o arquivo `MorangoDetector.py`.
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/jonathan953/Identificando-Morangos-com-Python.git
 
 2. Execute o script:
 
